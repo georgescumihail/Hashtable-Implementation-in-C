@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hashtable Implementation.cpp">
+    <ClCompile Include="Hashtable-products.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
